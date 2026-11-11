@@ -1,0 +1,12 @@
+build/
+.gradle/
+data/
+*.iml
+.idea/
+.vscode/
+bin/
+uploads/
+certs/
+
+# DB 비밀번호가 들어 있는 파일 - 절대 커밋 금지
+.env
