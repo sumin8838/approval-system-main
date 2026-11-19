@@ -1,0 +1,11 @@
+# Docker 이미지에 넣지 않을 것 (비밀번호·빌드 결과물·로컬 데이터)
+.env
+.gradle/
+build/
+bin/
+data/
+uploads/
+certs/
+*.iml
+.idea/
+.vscode/
